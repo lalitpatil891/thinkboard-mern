@@ -44,7 +44,7 @@ It also includes essential features like **rate limiting** for backend API prote
 ## 📸 Screenshots
 
 **Main Page**
-![Main Page](https://github.com/lalitpatil891/thinkboard-mern/blob/main/sc/main-page.pngs)
+![Main Page](https://github.com/lalitpatil891/thinkboard-mern/blob/main/sc/main-page.png)
 
 **Add Note Page**
 ![Add Note Page](https://github.com/lalitpatil891/thinkboard-mern/blob/main/sc/add-note-page.png)
