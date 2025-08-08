@@ -102,7 +102,18 @@ thinkboard-mern/
 
 ## 📸 Screenshots
 
-*(Add images here if available. I can help format or include them.)*
+**Main Page**
+![Main Page](https://github.com/lalitpatil891/thinkboard-mern/blob/main/sc/main-page.pngs)
+
+**Add Note Page**
+![Add Note Page](https://github.com/lalitpatil891/thinkboard-mern/blob/main/sc/add-note-page.png)
+
+**Edit Note Page**
+![Edit Note Page](https://github.com/lalitpatil891/thinkboard-mern/blob/main/sc/edit-page.png)
+
+**No Notes Yet Screen**
+![No Note Yet](http://github.com/lalitpatil891/thinkboard-mern/blob/main/sc/no-note-yet.png)
+
 
 ---
 
