@@ -53,7 +53,7 @@ It also includes essential features like **rate limiting** for backend API prote
 ![Edit Note Page](https://github.com/lalitpatil891/thinkboard-mern/blob/main/sc/edit-page.png)
 
 **No Notes Yet Screen**
-![No Note Yet](http://github.com/lalitpatil891/thinkboard-mern/blob/main/sc/no-note-yet.png)
+![No Note Yet](https://github.com/lalitpatil891/thinkboard-mern/blob/main/sc/no-note-yet.png)
 
 ---
 
