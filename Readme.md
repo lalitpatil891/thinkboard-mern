@@ -41,6 +41,22 @@ It also includes essential features like **rate limiting** for backend API prote
 
 ---
 
+## 📸 Screenshots
+
+**Main Page**
+![Main Page](https://github.com/lalitpatil891/thinkboard-mern/blob/main/sc/main-page.pngs)
+
+**Add Note Page**
+![Add Note Page](https://github.com/lalitpatil891/thinkboard-mern/blob/main/sc/add-note-page.png)
+
+**Edit Note Page**
+![Edit Note Page](https://github.com/lalitpatil891/thinkboard-mern/blob/main/sc/edit-page.png)
+
+**No Notes Yet Screen**
+![No Note Yet](http://github.com/lalitpatil891/thinkboard-mern/blob/main/sc/no-note-yet.png)
+
+---
+
 ## 📦 Installation & Setup
 
 ### Prerequisites
@@ -97,19 +113,6 @@ thinkboard-mern/
 │   └── ...
 └── README.md
 ```
-
----
-
-## 📸 Screenshots
-
-*(Add images here if available. I can help format or include them.)*
-
----
-
-## 📄 License
-
-Licensed under the [MIT License](LICENSE).
-
 ---
 
 ## 👨‍💻 Author
