@@ -1,0 +1,46 @@
+Thinkbord-mearn
+🧠 ThinkBoard - MERN Stack Project
+🔗 Live Demo: https://thinkboard-mern-nvhb.onrender.com/
+
+Frontend
+React.js
+Tailwind CSS
+Axios
+Backend
+Node.js
+Express.js
+MongoDB (via Mongoose)
+Deployment
+Render (both client and server)
+📦 Installation & Setup
+Prerequisites
+Node.js
+npm or yarn
+MongoDB (local or Atlas)
+
+
+======================== 
+I have two forlders 1.frontend  2. backend
+
+cd backend
+npm init -y
+npm install express@4.18.2
+node server.js
+npm install nodemon -D
+npm install mongoose
+npm i dotenv@16.5.0
+npm i @upstash/ratelimit@2.0.3 @upstash.redis@1.34.9
+npm i cors
+
+
+cd frontend
+npm create vite@latest
+	react
+	javascript
+npm install
+npm run dev
+npm i react-router toast
+npm i react-hot-toast
+npm i -D daisyui@4.12.24
+npm i lucide-react
+npm i axios 
